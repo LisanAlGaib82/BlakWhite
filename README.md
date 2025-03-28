@@ -27,10 +27,10 @@ I help businesses and individuals by creating smart, scalable, and innovative te
 
 ## 🖼️ Project Showcase
 
-> (Screenshots and GIFs coming soon!)
+> Some images of 1 Live Leading Indicator and Automated Trading Bot
 
 ![Project 1](./images/project1.png)
-![Project 2](./images/project2.gif)
+
 
 ---
 
@@ -47,8 +47,8 @@ Here you can download ready-to-use software I've built:
 
 ## 🔗 My Bots (Live)
 
-- 📲 **Telegram Bot**: [t.me/YourTelegramBot](https://t.me/YourTelegramBot)
-- 💬 **WhatsApp Bot**: [Click to start chat](https://wa.me/502XXXXXXX)
+- 📲 **Telegram Bot**: [[t.me/YourTelegramBot](https://t.me/YourTelegramBot)](https://t.me/CryptoGlobalForecaster_bot)
+- 💬 **WhatsApp Bot**: [[Click to start chat](https://wa.me/502XXXXXXX)](https://wa.link/l8vn1u)
 
 ---
 

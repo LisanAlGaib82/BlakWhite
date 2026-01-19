@@ -20,17 +20,8 @@ I help businesses and individuals by creating smart, scalable, and innovative te
 
 ---
 
-## Project Showcase
 
-> Some images of 1 Live Leading Indicator and Automated Trading Bot
-
-(./images/New UI.png)
-
-
----
-
-
-## 🔗 My Bots (Live)
+## 🔗Some of My Bots (Live)
 
 - **Telegram Bot**: (https://t.me/CryptoGlobalForecaster_bot)
 - **WhatsApp Bot**: (https://wa.link/su0fz1)

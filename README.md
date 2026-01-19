@@ -24,7 +24,7 @@ I help businesses and individuals by creating smart, scalable, and innovative te
 
 > Some images of 1 Live Leading Indicator and Automated Trading Bot
 
-![Project 1](./images/New UI.png)
+(./images/New UI.png)
 
 
 ---

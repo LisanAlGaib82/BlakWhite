@@ -8,11 +8,6 @@ I help businesses and individuals by creating smart, scalable, and innovative te
 
 ---
 
-## 🌐 My Website
-[www.ailabgt.site](https://www.jmcb.ssite)
-
----
-
 ##  What I Do
 
 - Automated Trading Bots** for crypto and forex (real-time, AI-driven, high-frequency)
@@ -37,7 +32,7 @@ I help businesses and individuals by creating smart, scalable, and innovative te
 
 ## 🔗 My Bots (Live)
 
-- **Telegram Bot**: ([t.me/YourTelegramBot](https://t.me/CryptoGlobalForecaster_bot)
+- **Telegram Bot**: (https://t.me/CryptoGlobalForecaster_bot)
 - **WhatsApp Bot**: (https://wa.link/su0fz1)
 
 ---
